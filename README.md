@@ -21,11 +21,11 @@ In this project, i trained an image classifier to recognize different species of
 1. Clone the repository and navigate to the downloaded folder.
 	```	
 	git clone https://github.com/shyamStarwalt/Flower_classification.git
-	cd Dog-Breed-Classifier
+	cd pytorch_challenge-image-classification
 	```
-2. Open the Dog-breed_classifier.ipynb
+2. Open the Image_Classifier_Project.ipynb
 	```
-	jupyter notebook Dog-breed_classifier.ipynb	
+	jupyter notebook Image_Classifier_Project.ipynb	
 	```
 3. Read and follow the instructions! This repository doesn't include any dataset you need. You can check out the getting started to download them.
 
@@ -35,8 +35,8 @@ In this project, i trained an image classifier to recognize different species of
 
 - Intro
 - Step 0: Import Datasets
-- Step 1: Detect Humans
-- Step 2: Detect Dog
+- Step 1: Detect Flower Species
+- Step 2: Detect others
 - Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
 - Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
 - Step 5: Write Your Algorithm
