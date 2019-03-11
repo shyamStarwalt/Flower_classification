@@ -6,6 +6,10 @@ In this project, i trained an image classifier to recognize different species of
 
 <img src='pytorch_challenge-image-classification/assets/Flowers.png' width=500px>
 
+# Getting Started
+ ### Data
+  The data set contains images of flowers from 102 different species. The provided images were split into a training set and a   validation set. You can [download the images from here](https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip). Just uncompress it and you should be good to go.
+
 ### Prerequisites
 
 * Python 3.
