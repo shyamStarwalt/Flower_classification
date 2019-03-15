@@ -25,13 +25,22 @@ In this project, i trained an image classifier to recognize different species of
 1. Clone the repository and navigate to the downloaded folder.
 	```	
 	git clone https://github.com/shyamStarwalt/Flower_classification.git
+	
+	```
+2. Download and Install Anaconda [from here](https://www.anaconda.com/)
+
+3. Install the above packages mentioned in the Prerequisites (Anaconda Prompt)
+
+4. Open the cloned repository and navigate to
+
+	```
 	cd pytorch_challenge-image-classification
 	```
-2. Open the Image_Classifier_Project.ipynb
+5. Open the Image_Classifier_Project.ipynb
 	```
 	jupyter notebook Image_Classifier_Project.ipynb	
 	```
-3. Read and follow the instructions! This repository doesn't include any dataset you need. You can check out the getting started to download them.
+6. Read and follow the instructions! This repository doesn't include any dataset you need. You can check out the getting started to download them.
 
 ## Project Information
 
