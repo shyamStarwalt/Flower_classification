@@ -25,7 +25,6 @@ In this project, i trained an image classifier to recognize different species of
 1. Clone the repository and navigate to the downloaded folder.
 	```	
 	git clone https://github.com/shyamStarwalt/Flower_classification.git
-	
 	```
 2. Download and Install Anaconda [from here](https://www.anaconda.com/)
 
